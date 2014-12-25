@@ -388,9 +388,10 @@ document.getElementById('locsearch').value=citys;
         var a;        
         divnode.appendChild(node1);
         var textnode=document.createTextNode(citys);
-        node.appendChild(textnode);
-        document.getElementById("listofloc").appendChild(divnode);
-        divnode.appendChild(node);
+        divnode.appendChild(textnode);
+        node.appendChild(divnode);
+        document.getElementById("listofloc").appendChild(node);
+        
 }else{
 document.getElementById('errorloc').innerHTML="already added";
 document.getElementById('locationlist').style.display="block";
