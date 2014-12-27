@@ -4,8 +4,8 @@ This application will get weather conditions of present and future i.e forecast,
 
 Screenshots:
 
-![screenshot](https://raw.github.com/Ramesh1249/Cloudy/master/Delhi-Weather.jpg)
+![screenshot](https://raw.github.com/Ramesh1249/Cloudy/master/Delhi-Weather.png)
 
-![screenshot](https://raw.github.com/Ramesh1249/Cloudy/master/england-Weather.jpg)
+![screenshot](https://raw.github.com/Ramesh1249/Cloudy/master/england-Weather.png)
 
 
