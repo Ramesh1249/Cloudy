@@ -1,0 +1,236 @@
+var JSONObject = {
+                     "0":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon tornado'></i>"
+                          },
+
+                     "1":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                     "2":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon tornado'></i>"
+                          },
+                      "3":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                     "4":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                     "5":{
+                              "tags":"snow",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+                     "6":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon hail'></i>"
+                          },
+
+                     "7":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon sleet'></i>"
+                          },
+
+                     "8":{
+                              "tags":"snow",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "9":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon drizzle'></i>"
+                          },
+
+                     "10":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon rain'></i>"
+                          },
+
+                     "11":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon showers'></i>"
+                          },
+
+                     "12":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon showers'></i>"
+                          },
+
+                     "13":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon flurries'></i>"
+                          },
+
+                     "14":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon showers'></i>"
+                          },
+
+                     "15":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "16":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "17":{
+                              "tags":"clear",
+                             "class":"<i class='climacon hail'></i>"
+                          },
+                     "18":{
+                              "tags":"clear",
+                             "class":"<i class='climacon sleet'></i>"
+                          },
+
+                     "19":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon fog'></i>"
+                          },
+
+                     "20":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon fog'></i>"
+                          },
+                     "21":{
+                              "tags":"clear",
+                             "class":"<i class='climacon haze'></i>"
+                          },
+
+                     "22":{
+                              "tags":"clear",
+                             "class":"<i class='climacon haze'></i>"
+                          },
+
+                     "23":{
+                              "tags":"clear",
+                             "class":"<i class='climacon haze'></i>"
+                          },
+                     "24":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon wind cloud'></i>"
+                          },
+
+                     "25":{
+                              "tags":"snow",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "26":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon cloud'></i>"
+                          },
+                     "27":{
+                              "tags":"cloudy,night",
+                             "class":"<i class='climacon cloud moon'></i>"
+                          },
+
+                     "28":{
+                              "tags":"cloudy,sunny",
+                             "class":"<i class='climacon cloud sun'></i>"
+                          },
+
+                     "29":{
+                              "tags":"night",
+                             "class":"<i class='climacon cloud moon'></i>"
+                          },
+                     "30":{
+                              "tags":"cloudy,sunny",
+                             "class":"<i class='climacon cloud sun'></i>"
+                          },
+
+                     "31":{
+                              "tags":"night",
+                             "class":"<i class='climacon moon'></i>"
+                          },
+
+                     "32":{
+                              "tags":"sunny",
+                             "class":"<i class='climacon sun'></i>"
+                          },
+
+                     "33":{
+                              "tags":"night",
+                             "class":"<i class='climacon moon'></i>"
+                          },
+
+                     "34":{
+                              "tags":"day",
+                             "class":"<i class='climacon sun'></i>"
+                          },
+                     "35":{
+                              "tags":"clear",
+                             "class":"<i class='climacon hail'></i>"
+                          },
+
+                     "36":{
+                              "tags":"day",
+                             "class":"<i class='climacon sun'></i>"
+                          },
+
+                     "37":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+                     "38":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                     "39":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                     "40":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon showers'></i>"
+                          },
+                      "41":{
+                              "tags":"snow",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "42":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "43":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "44":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon cloud'></i>"
+                          },
+                     "45":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                     "46":{
+                              "tags":"cloudy",
+                             "class":"<i class='climacon snow'></i>"
+                          },
+
+                     "47":{
+                              "tags":"rainy",
+                             "class":"<i class='climacon lightning'></i>"
+                          },
+
+                    "3200":{
+                             "tags":"clear",
+                             "class":"<i class='climacon cloud'></i>"
+                          }
+
+                 };
